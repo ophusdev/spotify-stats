@@ -1,6 +1,6 @@
 # ReactJS Spotify Stats
 
-ReactJS web application 
+ReactJS web application to explore Spotify data
 
 ## Live version
 [Live Version](https://stats-spotify-summary.herokuapp.com/)
