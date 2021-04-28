@@ -1,3 +1,12 @@
+
+.gradient {
+  background: linear-gradient(90deg, #228B22 0%, #0c1c2c 100%);
+}
+
+html, body {
+  height: 100%
+}
+
 .App {
   text-align: center;
 }
